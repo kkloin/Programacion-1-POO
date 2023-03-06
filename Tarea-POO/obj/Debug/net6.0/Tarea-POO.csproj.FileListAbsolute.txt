@@ -1,0 +1,17 @@
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\bin\Debug\net6.0\Tarea-POO.exe
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\bin\Debug\net6.0\Tarea-POO.deps.json
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\bin\Debug\net6.0\Tarea-POO.runtimeconfig.json
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\bin\Debug\net6.0\Tarea-POO.dll
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\bin\Debug\net6.0\Tarea-POO.pdb
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\obj\Debug\net6.0\Tarea-POO.csproj.AssemblyReference.cache
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\obj\Debug\net6.0\Tarea-POO.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\obj\Debug\net6.0\Tarea-POO.AssemblyInfoInputs.cache
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\obj\Debug\net6.0\Tarea-POO.AssemblyInfo.cs
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\obj\Debug\net6.0\Tarea-POO.csproj.CoreCompileInputs.cache
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\obj\Debug\net6.0\Tarea-POO.dll
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\obj\Debug\net6.0\refint\Tarea-POO.dll
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\obj\Debug\net6.0\Tarea-POO.pdb
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\obj\Debug\net6.0\Tarea-POO.genruntimeconfig.cache
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\obj\Debug\net6.0\ref\Tarea-POO.dll
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\OneDrive - Universidad Iberoamericana\Trabajos de UNIBE\2023 - C2\Programación 1\Asignaciones\Tarea POO\Tarea-POO\obj\Debug\net6.0\Tarea-POO.csproj.CopyComplete
