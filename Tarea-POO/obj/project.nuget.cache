@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ohJ/7kPLRMXEh89ulhd95ALmLJwLEw/rALd2rfDybh+bxkjq0UrNEsURS6fkqCbXDZhtV6hXyxSNxeHXgjLgaw==",
+  "dgSpecHash": "RH7w8yDy3g6ii2Rzn8baIwmHRnTrkpadwlFJ+n7MnDUwnObeIJ4sjAeDc6+L/x6RHvEo7k7brtaiIRd9aZWC3g==",
   "success": true,
-  "projectFilePath": "E:\\OneDrive - Universidad Iberoamericana\\Trabajos de UNIBE\\2023 - C2\\Programación 1\\Asignaciones\\Tarea POO\\Tarea-POO\\Tarea-POO.csproj",
+  "projectFilePath": "E:\\OneDrive - Universidad Iberoamericana\\Trabajos de UNIBE\\2023 - C2\\Programación 1\\Asignaciones\\Programacion-1-POO\\Tarea-POO\\Tarea-POO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kelvon_Kloin\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
